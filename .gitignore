@@ -1,0 +1,36 @@
+# Ignore Pyenv
+.python-version
+.pyenv/
+
+# Ignore Java class files
+*.class
+
+# Ignore compiled bytecode
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore dependency folders
+/node_modules/
+/target/
+
+# Ignore compiled output
+/bin/
+/build/
+
+# Ignore environment configuration files
+.env
+ß
