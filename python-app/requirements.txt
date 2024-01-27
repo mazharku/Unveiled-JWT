@@ -1,0 +1,2 @@
+python-jose==3.3.0
+pyjwt==2.0.0
